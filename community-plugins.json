@@ -12495,5 +12495,12 @@
         "author": "xhyabunny",
         "description": "Nyan Cat Progress Bar generator!",
         "repo": "xhyabunny/nyanbar"
+    },
+    {	
+        "id": "geulo-youtube-liked-video-plugin",
+        "name": "Geulo",
+        "author": "Junyoung Bang",
+        "description": "Fetch all the YouTube videos you have liked, search and sort them with multiple sort options, and add them to your daily note in Obsidian.",
+        "repo": "zzunebye/obsidian-google-liked-video"
     }
 ]
