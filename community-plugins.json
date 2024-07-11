@@ -12495,5 +12495,12 @@
         "author": "xhyabunny",
         "description": "Nyan Cat Progress Bar generator!",
         "repo": "xhyabunny/nyanbar"
+    },
+	{
+		"id": "geulo-youtube-liked-video-plugin",
+		"name": "Geulo",
+		"author": "Junyoung Bang",
+		"description": "Demonstrates some of the capabilities of the Obsidian API.",
+		"repo": "zzunebye/obsidian-google-liked-video"
     }
 ]
