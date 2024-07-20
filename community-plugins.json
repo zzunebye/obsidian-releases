@@ -12675,7 +12675,7 @@
       	"id": "geulo-youtube-liked-video",
         "name": "Geulo",
         "author": "Junyoung Bang",
-        "description": "Allows you to fetch all the YouTube videos you have liked, search and sort them with multiple sort options, and add them to your daily note.",
+        "description": "Fetch all the YouTube videos you have liked, search and sort them with multiple sort options, and add them to your daily note.",
         "repo": "zzunebye/obsidian-google-liked-video"
     }
 ]
